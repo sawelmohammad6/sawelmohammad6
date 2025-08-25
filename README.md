@@ -16,3 +16,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+- 🎓 I'm a Computer Science student  
+- 💻 Interested in Software Engineering, Problem Solving, and Web Development  
+- 🌱 Currently learning C#, C++, Java, and MERN stack  
+- 🔍 Exploring Open Source and contributing to projects  
+- 🎯 Goal: To become a skilled Software Engineer  
+
+## Skills
+- Programming: C, C++, Java, C#  
+- Web: HTML, CSS, PHP, JavaScript (basic), MERN (learning)  
+- Tools: Git, GitHub, XAMPP, Visual Studio, VS Code  
+
+## Education
+- Bachelor’s in Computer Science and Engineering (CSE)  
+
+## Contact
+- 📧 Email: Sawelmohammad6@gmail.com  
+- 🔗 LinkedIn: [Mohammad Sawel](https://www.linkedin.com/in/mohammad-sawel-2876a62ab/)
+
+
